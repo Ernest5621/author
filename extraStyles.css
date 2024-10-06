@@ -1,0 +1,9 @@
+.rights  {
+
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+}
